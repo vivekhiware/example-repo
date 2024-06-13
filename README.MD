@@ -1,1 +1,4 @@
-sample file STORED IN REPOSITORY , HELLO WORLD
+EXAMPLE REPOSITORY
+
+sample file STORED IN REPOSITORY , HELLO CODERS
+This is a second change.
